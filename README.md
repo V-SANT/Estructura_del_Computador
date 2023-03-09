@@ -1,5 +1,7 @@
 # Estructura del Computador
 
+Cursé la materia en 2022-1C
+
 El repositorio incluye:
 * Resumen del libro de la materia -> Principles of Computer Architecture - Miles Murdocca
 * Biliografía y Guías de Ejercicios
