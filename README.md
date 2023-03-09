@@ -1,1 +1,1 @@
-# Estructura_del_Computador
+# Estructura del Computador
