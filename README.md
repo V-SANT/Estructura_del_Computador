@@ -1,4 +1,4 @@
-# Estructura del Computador
+# Estructura del Computador - Cabibbo - Trinchero
 
 Cursé la materia en 2022-1C
 
